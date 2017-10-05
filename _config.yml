@@ -20,4 +20,4 @@ github_username:  LizhangX
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
