@@ -20,8 +20,4 @@ github_username:  LizhangX
 # Build settings
 markdown: kramdown
 
-# Gems
-gems:
-  - jekyll-paginate
-
 theme: jekyll-theme-cayman
