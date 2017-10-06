@@ -1,5 +1,20 @@
+
+#title description
 title: LizhangX
-description: This is Lizhang Xie's Portfolio
+description: Weclome to My Portfolio.
+
 show_downloads: true
 google_analytics:
+
+#github info
+github: 
+  is_project_page: true
+  repository_url: https://github.com/LizhangX/LizhangX.github.io
+  repository_name: LizhangX.github.io
+  owner_url: https://github.com/LizhangX
+  owner_name: Lizhang Xie
+  project_tagline: My Portfolio
+
+linkedIn_url: https://www.linkedin.com/in/lizhangxie/
+
 theme: jekyll-theme-cayman
