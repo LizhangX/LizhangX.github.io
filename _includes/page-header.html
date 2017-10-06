@@ -1,0 +1,14 @@
+<a href="/" class="btn home_btn">Home</a> 
+<!-- <a href="/" class="btn home_btn">About Me</a>  -->
+<a href="/projects" class="btn home_btn">Projects</a> 
+<section class="page-header">
+  <h1></h1>
+  <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+  <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+  {% if site.github.is_project_page %}
+    <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+  {% endif %}
+  {% if page.projects %}
+    <a href="" class="btn">Notiflight</a>
+  {% endif %}
+</section>
