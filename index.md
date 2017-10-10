@@ -3,11 +3,11 @@ layout: default
 description: Home
 ---
 
-[Link to ref](indexrefer).
+# **About Me**
 
-Welcome to Lizhang's portfolio. I am self-sufficient software developer building full stack apps from python Django through Angular 4. Please look for more of my projects in the menu.
+>**Graduated from Columbia University, I continue my passion in software developing at Coding Dojo. I am self-sufficient software developer building full stack apps from python Django through Angular4.**
 
-Graduated from Columbia University, Lizhang continued his passion in software engineering at Coding Dojo.
+### **My Technologies**
 
 * **Front-End Development**: 
 >HTML5 ⦁ CSS3 ⦁ jQuery ⦁ jQuery UI ⦁ HTTP Request/Response ⦁ Ajax
@@ -16,8 +16,11 @@ Graduated from Columbia University, Lizhang continued his passion in software en
 * **Databases**: 
 >SQL (MySQL, SQLite, PostgreSQL) ⦁ NoSQL(MongoDB) ⦁ Mongoose.js
 * **Frameworks**: 
->Flask ⦁ Django ⦁ Angular4 ⦁ Ruby on Rails ⦁ Express.js/Socket.io ⦁ Bootstrap
+>Flask ⦁ Django ⦁ Angular2/4 ⦁ Ruby on Rails ⦁ Express.js/Socket.io ⦁ Twitter Bootstrap
 * **Methodology**: 
 >Object Oriented Programming(OOP) ⦁ MVC/MTV ⦁ RESTful Architecture ⦁ CRUD
 * **Others**: 
 >Git ⦁ Node.js ⦁ SimaPro ⦁ ArcGIS ⦁ R ⦁ Microsoft Office Suite
+
+
+[Ref](indexrefer)
