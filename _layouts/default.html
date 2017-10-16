@@ -8,8 +8,14 @@
     {% include page-header.html %}
     
     <section class="main-content">
-      {{ content }}
       
+      {% if page.description == Post %}
+      
+        
+      {% endif %}
+        
+      {{ content }}
+        
       {% include page-footer.html %}      
 
     </section>
