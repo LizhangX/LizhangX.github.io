@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first Blog!"
+title:  "Headless Browser. (My first Blog!)"
 date:   2017-10-13 13:33:00
 categories: blog
 ---
