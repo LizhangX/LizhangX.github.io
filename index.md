@@ -2,6 +2,7 @@
 layout: default
 description: Home
 ---
+# **Lizhang Xie**
 
 **Graduated from Columbia University, I continue my passion in software developing at Coding Dojo. I am self-sufficient software developer building full stack apps from python Django through Angular4.**
 
