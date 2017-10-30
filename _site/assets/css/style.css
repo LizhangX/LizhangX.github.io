@@ -587,6 +587,12 @@ a {
   float: left;
   margin: 1rem 0 0 1rem; }
 
+.page_btn {
+  color: white;
+  border-radius: 0.3rem;
+  border-style: solid;
+  background-color: #019663; }
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
