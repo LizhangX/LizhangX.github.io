@@ -1,12 +1,12 @@
 <div>
-  <a href="/" class="btn home_btn">Lizhang Xie</a> 
+  <a href="/" class="btn home_btn">LizhangX</a> 
   <!-- <a href="/" class="btn home_btn">About Me</a>  -->
   <a href="/posts" class="btn home_btn">Blog</a> 
   <a href="/projects" class="btn home_btn">Project</a>
   {% if site.github.is_project_page %}
-  <a href="{{ site.github.owner_url }}" class="btn home_btn">Github <img src="/assets/img/github.png" width="15" alt=""></a>
+  <a href="{{ site.github.owner_url }}" class="btn home_btn">Github <i class="fa fa-github" aria-hidden="true"></i></a>
   {% endif %}
-  <a href="{{ site.linkedIn_url }}" class="btn home_btn">LinkedIn <img src="/assets/img/linkedin.png" width="15" alt=""></a>
+  <a href="{{ site.linkedIn_url }}" class="btn home_btn">LinkedIn <i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
   
 </div>
 
@@ -14,11 +14,11 @@
   <br>
   <br>
   <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-  <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+  <h2 class="project-tagline">if <i class="fa fa-code" aria-hidden="true"></i>Developer == <i class="fa fa-wrench" aria-hidden="true"></i>Engineer == <i class="fa fa-gamepad" aria-hidden="true"></i>Geek : <br> return "Lizhang Xie" </h2>
 
   {% if page.projects %}
-    <a href="https://notiflight.herokuapp.com" class="btn">Notiflight Project</a>
-    <a href="http://34.228.62.110" class="btn">Events Project</a>
+    <a href="{{site.notiflight_url}}" class="btn">Notiflight Project</a>
+    <a href="{{site.events_url}}" class="btn">Events Project</a>
   {% endif %}
   
 </section>

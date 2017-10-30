@@ -1,7 +1,8 @@
 
 #title description
-title: Eat Love Code
-description: Be the change you want to see in the world --Mahatma Gandhi
+title: LizhangX
+description: Portfolio
+des: Developer / Engineer / Geek
 
 show_downloads: true
 google_analytics:
@@ -14,6 +15,11 @@ github:
   owner_url: https://github.com/LizhangX
   owner_name: Lizhang Xie
   project_tagline: My Portfolio
+
+domain: LizhangX.com
+
+notiflight_url: https://notiflight.herokuapp.com
+events_url: http://34.228.62.110
 
 linkedIn_url: https://www.linkedin.com/in/lizhangxie/
 
